@@ -7,5 +7,6 @@
 @section('content')
  
   <livewire:count />
+  <livewire:message />
 
 @endsection
